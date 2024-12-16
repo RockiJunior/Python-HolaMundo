@@ -1,3 +1,6 @@
-""" Format es un archivo para checkear que pylint funcione """
+""""FORMAT"""
 
 CHANCHITO = "feliz"
+
+A = 12
+B = 13

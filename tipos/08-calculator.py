@@ -10,10 +10,10 @@ multi = n1 * n2
 div = n1 / n2
 
 
-mensaje = f"""de la suma esde la suma es
+mensaje = f"""
     Para los números {n1} y {n2},
-    el resultado de la suma es {suma}.de la suma es
-    el resultado de la resta es {resta}.de la suma es
+    el resultado de la suma es {suma}.
+    el resultado de la resta es {resta}.
     el resultado de la multiplicación es {multi}.
     el resultado de la división es {div}.
 """
